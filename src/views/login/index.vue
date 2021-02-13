@@ -182,7 +182,7 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  //background: url("./login_bg.jpg") no-repeat;
+  background: url("./login_bg.jpg") no-repeat;
   background-size: cover;
   .login-form-wrap {
     min-width: 300px;
@@ -194,7 +194,7 @@ export default {
       .logo {
         width: 200px;
         height: 57px;
-        //background: url("./logo_index.png") no-repeat;
+        background: url("./logo_index.png") no-repeat;
         background-size: contain;
       }
     }
